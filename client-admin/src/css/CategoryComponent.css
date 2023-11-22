@@ -1,0 +1,45 @@
+/* CategoryComponent.css */
+
+.text-center {
+    text-align: center;
+  }
+  
+  .text-red {
+    color: red;
+  }
+  
+  .float-left {
+    float: left;
+  }
+  
+  .inline {
+    display: inline;
+  }
+  
+  .float-clear {
+    clear: both;
+  }
+  
+  .datatable {
+    width: 100%;
+  }
+  
+  .datatable th,
+  .datatable td {
+    padding: 10px;
+  }
+  
+  .datatable th {
+    background-color: #ccc;
+  }
+  
+  .datatable tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .datatable tr:hover {
+    background-color: #ddd;
+    cursor: pointer;
+  }
+/* CategoryComponent.css */
+
